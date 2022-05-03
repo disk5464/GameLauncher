@@ -1,14 +1,22 @@
 Welcome to the Game Launcher Launcher! 
+
 ###################################### 
+
 Last Modified: 5/2/22 
 Created By: Disk5464
+
 ###################################### 
+
 Description: 
 By running the GamesLauncherBat.bat file you will be able to launch all of your game launcher / storefronts at once. Right now, it launches Steam, BattleNet, Epic Games, EA play, and the MS store but more can be added. The reason I wrote this is that I noticed my BattleNet doesn’t start on launch (I don't use it very often so I have AutoStart disabled) and would leave my games out of date, meaning I'd have to do a bunch of updates if I wanted to play something on BattleNet.
+
 ###################################### 
+
 How to use: 
 The first time you want to use this run the Setup.bat first. This will check to see if your launchers are installed in the default locations. If not, it will ask you for the file path to the exe. After this you can just run the GameLauncherBat.bat If you want to run the GameLauncherBat.bat from somewhere else besides this directory, right click on it, hit "send to", then "Desktop (create shortcut)". This will create a shortcut on your desktop that you can put anywhere. 
+
 ###################################### 
+
 How it works: 
 Both .bat files simply point to the scripts that are in the scripts folder.
 
